@@ -2,8 +2,8 @@
 project:
   title:        "t10_helloworld"      # Project title
   author:       "Dario Tafrishi Najad"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  discord:      "test"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "test"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
